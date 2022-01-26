@@ -1,2 +1,2 @@
-# sample-toolbox
-A sample MATLAB project
+# addition-toolbox
+A MATLAB project for adding numbers.
